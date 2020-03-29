@@ -20,7 +20,7 @@ function App() {
     return (
         <div className="app">
             <div className="container">
-                <SelectBox id={'exampleId'} onSelected={onSelected} data={data} />
+                <SelectBox id={'test-select-box-1'} onSelected={onSelected} data={data} />
                 <div className="caption">{`Selected: ${JSON.stringify(selected)}`}</div>
             </div>
         </div>
