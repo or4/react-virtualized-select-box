@@ -1,0 +1,29 @@
+.sb-popup__main-container {
+    position: absolute;
+    border: 2px solid rgba(238,238,238);
+    border-top: none;
+    background: #fff;
+    overflow-y: scroll;
+}
+
+.sb-popup__size-container {
+    width: 250px;
+}
+
+.sb-popup__position-container {
+    position: absolute;
+    width: 100%;
+}
+
+.sb-popup__container_hidden {
+    visibility: hidden;
+}
+
+.sb-popup__item {
+    padding: 3px 5px;
+    cursor: pointer;
+}
+
+.sb-popup__item:hover {
+    background: rgba(0,0,0,0.03);
+}

@@ -1,0 +1,8 @@
+.sb-container {
+}
+.sb-input {
+    padding: 3px 5px;
+    min-width: 300px;
+    font-size: 14px;
+    outline: none;
+}
