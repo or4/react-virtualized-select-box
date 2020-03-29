@@ -10,7 +10,7 @@ You can custom it how you needed.
 
 ## Exapmle
 
-![video example](https://github.com/or4/react-simpple-virtualized-select-box/video.gif)
+![video example](https://github.com/or4/react-simpple-virtualized-select-box/blob/master/video.gif)
 
 ## Install
 
