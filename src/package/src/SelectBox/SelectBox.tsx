@@ -6,6 +6,7 @@ import { SelectBoxPopup } from './SelectBoxPopup';
 import { SelectBoxPortal } from './SelectBoxPortal';
 
 import './SelectBox.css';
+import { useWindowSize } from './useWindowSize';
 
 export function SelectBox(props: ISelectBoxProps) {
     const [visible, setVisible] = React.useState(false);
@@ -27,6 +28,9 @@ export function SelectBox(props: ISelectBoxProps) {
     function onToggleVisible() {
         setVisible(!visible);
     }
+
+    // when resize window rerender this component
+    useWindowSize();
 
     let top = 0;
     let left = 0;

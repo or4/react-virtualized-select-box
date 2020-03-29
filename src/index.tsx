@@ -11,7 +11,6 @@ function App() {
     const [selected, setSelected] = React.useState<object | null>(null);
 
     function onSelected(selected: ISelectBoxItem) {
-        console.log('selected', selected);
         setSelected(selected);
     }
 
