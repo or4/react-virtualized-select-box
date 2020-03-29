@@ -6,7 +6,7 @@ Inspired react-virtualized I create this select box. It is very fast for big dat
 
 It has only two dependencies, there are react and react-dom.
 
-You can custom it how you needed.
+You can customize it as you need.
 
 ## Exapmle
 
