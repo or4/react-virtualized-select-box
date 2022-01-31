@@ -1,13 +1,13 @@
 {
-  "name": "react-simple-virtualized-select-box",
+  "name": "react-virtualized-select-box",
   "version": "1.0.1",
   "private": false,
   "author": "Dmitry Vakarev <dmitryvakarev@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/or4/react-simpple-virtualized-select-box/issues"
+    "url": "https://github.com/or4/react-virtualized-select-box/issues"
   },
-  "homepage": "https://github.com/or4/react-simpple-virtualized-select-box",
+  "homepage": "https://github.com/or4/react-virtualized-select-box",
   "keywords": [
     "typescript",
     "javascript"

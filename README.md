@@ -1,4 +1,4 @@
-# react-simple-virtualized-select-box
+# react-virtualized-select-box
 
 ## About
 
@@ -10,12 +10,12 @@ You can customize it as you need.
 
 ## Example
 
-![video example](https://github.com/or4/react-simpple-virtualized-select-box/blob/master/video.gif)
+![video example](https://github.com/or4/react-virtualized-select-box/blob/master/video.gif)
 
 ## Install
 
 ```node
-npm install react-simple-virtualized-select-box@latest
+npm install react-virtualized-select-box@latest
 ```
 
 I'm sorry, but I removed this package from npm for now
