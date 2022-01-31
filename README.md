@@ -1,4 +1,4 @@
-# react-simpple-virtualized-select-box
+# react-simple-virtualized-select-box
 
 ## About
 
@@ -8,13 +8,13 @@ It has only two dependencies, there are react and react-dom.
 
 You can customize it as you need.
 
-## Exapmle
+## Example
 
 ![video example](https://github.com/or4/react-simpple-virtualized-select-box/blob/master/video.gif)
 
 ## Install
 
-npm install react-simpple-virtualized-select-box@latest
+npm install react-simple-virtualized-select-box@latest
 
 ## Using
 
@@ -33,9 +33,3 @@ mix: string; // mix class for main container
 popupMix: string; // mix class for popup container
 id: string; // id for popup
 ```
-
-## Notes for using repo
-
-Code of the npm package is placed in `/src/package`
-
-If you try work with it and try publish or npm start you must remove unnecessary node_modules and lib of package.
