@@ -14,7 +14,11 @@ You can customize it as you need.
 
 ## Install
 
+```node
 npm install react-simple-virtualized-select-box@latest
+```
+
+I'm sorry, but now I removed this package from npm
 
 ## Using
 
